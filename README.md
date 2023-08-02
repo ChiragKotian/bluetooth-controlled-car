@@ -8,4 +8,4 @@ The innovative three-wheel design of the car incorporates a unique steering mech
 ## Demonstrations:
 
 ## Credits:
-_This was made by [me](https://chiragkotian.github.io) and [Arpit](https://github.com/arpitguptagithub) as our first side project in college first year._
+_This was made by [me](https://chiragkotian.github.io) and [Arpit](https://github.com/arpitguptagithub) as our first side project in college in B.Tech first year._
