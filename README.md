@@ -10,6 +10,8 @@ The innovative three-wheel design of the car incorporates a unique steering mech
 
 This car also had a feature of detecting obstacles in front of it using IR-based proximity sensors, which, when sense some obstacle, stop the car, turn the steering to one of the extremes and reverses the car.
 
+![20220701_230111](https://github.com/ChiragKotian/bluetooth-controlled-car/assets/117931123/f99026b9-2fa9-457b-988d-92d4ff34a0f1)
+
 ## Demonstrations:
 
 
